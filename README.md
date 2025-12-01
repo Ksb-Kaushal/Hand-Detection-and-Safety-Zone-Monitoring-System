@@ -23,13 +23,13 @@ The goal is to build a vision based system that can:
 
 Video 👇
 
-https://github.com/Ksb-Kaushal/Hand-Detection-and-Safety-Zone-Monitoring-System/blob/main/Demonstration_Video.mp4
+https://github.com/Ksb-Kaushal/Hand-Detection-and-Safety-Zone-Monitoring-System/blob/main/Demonstration_Video
 
 ![AOI Drawing](Demo.jpg)
 
 Video 👇
 
-https://github.com/Ksb-Kaushal/Hand-Detection-and-Safety-Zone-Monitoring-System/blob/main/System_Demo_video.mp4
+https://github.com/Ksb-Kaushal/Hand-Detection-and-Safety-Zone-Monitoring-System/blob/main/System_Demo_video
 
 ---
 This repository contains a working prototype of such a system implemented in a single Python file.
