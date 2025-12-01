@@ -1,5 +1,5 @@
 ## Admin: defining the Area of Interest (AOI)
-1. Run `python video_saving.py`. Window `Hand AOI Monitor` will open.
+1. Run `python Hand_Safety.py`. Window `Hand AOI Monitor` will open.
 2. Press `d` to enter drawing mode.
 3. Left click to add polygon points around the machine danger area.
 4. Right click to finish and set the AOI. At least 3 points required.
