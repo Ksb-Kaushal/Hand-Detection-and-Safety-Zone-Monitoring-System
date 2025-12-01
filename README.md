@@ -31,15 +31,12 @@ Video 👇
 
 https://github.com/Ksb-Kaushal/Hand-Detection-and-Safety-Zone-Monitoring-System/blob/main/System_Demo_video
 
-## Me
-![AOI Drawing](Me.jpg)
-
 ---
 This repository contains a working prototype of such a system implemented in a single Python file.
 
 ## System Overview  
 
-
+![System Overview](Overview.jpg)
 
 The system uses:
 
@@ -69,3 +66,5 @@ All logic is in a single file: `hand_safety_monitor.py`.
 - Designed to be connected to a 24 V DC output for PLC / relay integration (hardware wiring not included in code).
 
 ---
+## Me
+![AOI Drawing](Me.jpg)
