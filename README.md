@@ -14,6 +14,18 @@ The goal is to build a vision based system that can:
 - Give a **stop signal** if a hand enters a critical zone.
 - Provide a 24 V DC output which can be wired to a PLC or emergency stop circuit.
 - Record video automatically during dangerous events.
+## AOI Example
+![AOI Drawing](AOI.jpg)
+
+Video 👇
+
+https://github.com/Ksb-Kaushal/Hand-Detection-and-Safety-Zone-Monitoring-System/blob/main/Demonstration_Video
+
+![AOI Drawing](Demo.jpg)
+
+Video 👇
+
+https://github.com/Ksb-Kaushal/Hand-Detection-and-Safety-Zone-Monitoring-System/blob/main/System_Demo_video
 
 This repository contains a working prototype of such a system implemented in a single Python file.
 
