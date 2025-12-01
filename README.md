@@ -35,7 +35,7 @@ https://github.com/Ksb-Kaushal/Hand-Detection-and-Safety-Zone-Monitoring-System/
 This repository contains a working prototype of such a system implemented in a single Python file.
 
 ## System Overview  
-
+![AOI Drawing](System_Overview.jpg)
 ![System Overview](Overview.jpg)
 
 The system uses:
