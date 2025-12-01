@@ -1,0 +1,11 @@
+## Admin: defining the Area of Interest (AOI)
+1. Run `python video_saving.py`. Window `Hand AOI Monitor` will open.
+2. Press `d` to enter drawing mode.
+3. Left click to add polygon points around the machine danger area.
+4. Right click to finish and set the AOI. At least 3 points required.
+5. Press `r` to restore default AOI.
+6. The system splits the AOI into a yellow and red zone. Yellow gives a warning, red triggers recording and PLC output.
+
+Notes:
+- To test without camera, set `cap = cv2.VideoCapture("path/to/demo.mp4")` inside `run()`.
+- Update YOLO model path and save folder inside the script before running.
